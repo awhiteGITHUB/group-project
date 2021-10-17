@@ -1,6 +1,6 @@
 # Class Roster Project
 # Antnony E. White 
-*Anthony E. White
+
  
 Wednesday
 
