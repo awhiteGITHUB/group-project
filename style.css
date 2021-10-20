@@ -25,6 +25,16 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+
+.anthony-style {
+    color: blue;
+    background-color: rgb(218, 220, 230);
+    padding: 3px;
+}
+
+
+
+
 .jane-style {
     color: hotpink;
     background-color: black;
