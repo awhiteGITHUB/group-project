@@ -1,5 +1,5 @@
 # Class Roster Project
-# Antnony E. White 
+# Antnony E. White class project
 
  
 Wednesday
